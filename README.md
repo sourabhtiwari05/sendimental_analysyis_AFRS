@@ -1,4 +1,4 @@
-# Sendimental_Aalysyis_AFRS
+# Amazon Fine Food Reviews Sentiment Analysis
 
 ## Overview
 
