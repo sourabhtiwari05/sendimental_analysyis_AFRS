@@ -1,4 +1,4 @@
-# sendimental_analysyis_AFRS
+# Sendimental_Aalysyis_AFRS
 
 ## Overview
 
